@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = r.herbreteau@live.fr
+	name = romain herbreteau r.herbreteau@live.fr
